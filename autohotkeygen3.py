@@ -155,5 +155,5 @@ file.write("return")
 
 file.close()
 
-print('zapisano plik pomyslnie do autohotkey.txt')
+#print('zapisano plik pomyslnie do autohotkey.txt')
 print('\x1b[6;30;42m' + 'zapisano plik pomyslnie do autohotkey.txt' + '\x1b[0m')
