@@ -57,10 +57,10 @@ while True:
 			 break
 
 		else:
-			print('nie cwaniakuj kurla, trzeba podac wartosc okreslona w menu ;)')
+			print('Bledna wartosc')
 	
 	except ValueError:
-		print('nie cwaniakuj kurla, trzeba podac wartosc okreslona w menu ;)')
+		print('Bledna wartosc')
 
 print("Typologia:\n\n1. forwarded to KeepBiz\n2. MultiSite changes\n3. DNS zone configuration\n4. Non OVH Request\n5. inna wartosc...")
 while True:
@@ -89,10 +89,10 @@ while True:
 			break
 			
 		else:
-			print('nie cwaniakuj kurla, trzeba podac wartosc okreslona w menu ;)')
+			print('Bledna wartosc')
 			
 	except ValueError:
-		print('nie cwaniakuj kurla, trzeba podac wartosc liczbowa, okreslona w menu ;)')
+		print('Bledna wartosc')
 
 while True:
     
